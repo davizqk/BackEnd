@@ -1,0 +1,14 @@
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\bin\Debug\net9.0\exercicio04.exe
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\bin\Debug\net9.0\exercicio04.deps.json
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\bin\Debug\net9.0\exercicio04.runtimeconfig.json
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\bin\Debug\net9.0\exercicio04.dll
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\bin\Debug\net9.0\exercicio04.pdb
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.AssemblyInfo.cs
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.dll
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\refint\exercicio04.dll
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.pdb
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\exercicio04.genruntimeconfig.cache
+C:\Users\54470890855\Desktop\BackEnd\exercicio04\obj\Debug\net9.0\ref\exercicio04.dll

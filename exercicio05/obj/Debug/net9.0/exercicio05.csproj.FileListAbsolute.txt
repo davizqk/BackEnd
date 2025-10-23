@@ -1,0 +1,14 @@
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.AssemblyInfoInputs.cache
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.AssemblyInfo.cs
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.csproj.CoreCompileInputs.cache
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\bin\Debug\net9.0\exercicio05.exe
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\bin\Debug\net9.0\exercicio05.deps.json
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\bin\Debug\net9.0\exercicio05.runtimeconfig.json
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\bin\Debug\net9.0\exercicio05.dll
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\bin\Debug\net9.0\exercicio05.pdb
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.dll
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\refint\exercicio05.dll
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.pdb
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\exercicio05.genruntimeconfig.cache
+C:\Users\54470890855\Desktop\BackEnd\exercicio05\obj\Debug\net9.0\ref\exercicio05.dll
