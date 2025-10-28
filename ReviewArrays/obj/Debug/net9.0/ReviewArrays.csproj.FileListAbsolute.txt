@@ -12,3 +12,4 @@ C:\Users\54470890855\Desktop\BackEnd\ReviewArrays\obj\Debug\net9.0\refint\Review
 C:\Users\54470890855\Desktop\BackEnd\ReviewArrays\obj\Debug\net9.0\ReviewArrays.pdb
 C:\Users\54470890855\Desktop\BackEnd\ReviewArrays\obj\Debug\net9.0\ReviewArrays.genruntimeconfig.cache
 C:\Users\54470890855\Desktop\BackEnd\ReviewArrays\obj\Debug\net9.0\ref\ReviewArrays.dll
+C:\Users\54470890855\Desktop\BackEnd\ReviewArrays\obj\Debug\net9.0\ReviewArrays.sourcelink.json
